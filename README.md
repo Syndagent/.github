@@ -1,2 +1,2 @@
-# .github
-This is the Syndagent Organization's public repository for people that are looking at our organization in a 'Public' view.
+# Syndagent
+You are currently observing the Public Syndagent Organization. For further information, visit [Syndagent](https://syndagent.com/)
